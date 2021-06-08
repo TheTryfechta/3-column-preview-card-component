@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./design/screenshot.jpg)
+![screenshot](https://imgur.com/BU3OyBS)
 
 ### Links
 
