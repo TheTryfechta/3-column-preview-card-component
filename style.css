@@ -80,10 +80,6 @@ body {
 }
 
 .btn:hover {
-    text-decoration: underline;
-}
-
-.btn:active {
     background: transparent;
     color: white;
 }
@@ -105,6 +101,10 @@ body {
     .btn {
         margin-top: 5em;
         padding: .85em 2.5em;
+    }
+
+    p {
+        height: 130px;
     }
 }
 
