@@ -43,3 +43,7 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@TheTryfechta](https://www.frontendmentor.io/profile/TheTryfechta)
+
+## Acknowledgements
+
+Thanks to [@palgramming](https://www.frontendmentor.io/profile/palgramming) for the helpful feedback!
