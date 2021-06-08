@@ -11,6 +11,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
