@@ -76,6 +76,7 @@ body {
     padding: .85em 2.5em;
     font-family: "Lexend Deca";
     margin-top: .5em;
+    transition: margin 1s ease;
 }
 
 .btn:hover {
@@ -102,7 +103,7 @@ body {
     }
 
     .btn {
-        margin-top: 6em;
+        margin-top: 5em;
         padding: .85em 2.5em;
     }
 }
