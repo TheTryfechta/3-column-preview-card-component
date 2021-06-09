@@ -40,6 +40,7 @@ Users should be able to:
 
 - CSS3
 - Flexbox-CSS
+- CSS Transitions
 
 ## Author
 
@@ -47,4 +48,9 @@ Users should be able to:
 
 ## Acknowledgements
 
-Thanks to [@palgramming](https://www.frontendmentor.io/profile/palgramming) for the helpful feedback!
+Thanks to
+
+- [@palgramming](https://www.frontendmentor.io/profile/palgramming)
+- [@ApplePieGiraffe](https://www.frontendmentor.io/profile/ApplePieGiraffe)
+
+for the helpful feedback!
